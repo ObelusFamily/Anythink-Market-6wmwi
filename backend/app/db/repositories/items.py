@@ -9,6 +9,7 @@ from app.db.queries.tables import (
     Parameter,
     items,
     items_to_tags,
+    items_to_title,
     favorites,
     tags as tags_table,
     users,
